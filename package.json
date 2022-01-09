@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-learn",
+  "version": "1.0.0",
+  "description": "Learning blockchain",
+  "main": "src/app/index.js",
+  "dependencies": {
+    "awilix": "^6.0.0",
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Matias E. Navarrete",
+  "license": "MIT"
+}
